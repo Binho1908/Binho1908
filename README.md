@@ -1,6 +1,6 @@
 
 
-<h1 style="margin: 80px;">
+<h1 margin="0 auto">
 hi
 </h1>
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
