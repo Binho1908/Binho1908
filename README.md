@@ -1,4 +1,6 @@
-[![](https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif)](https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif)
+
+
+<img style="width:80px">[![](https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif)](https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif)</img>
 
 
 
