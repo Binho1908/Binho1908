@@ -1,30 +1,11 @@
+<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
+### Hi 👋
+I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
+- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
+- 🤝 I’m looking to collaborate on data science and deep learning projects. 
 
-<img style="width:80px">[![](https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif)](https://media.giphy.com/media/a74pSGN7wvT7a/giphy.gif)</img>
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-
-
-#  👋 Hi, I’m @Binho1908
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning ui/ux and node.js.
-- 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me : 
-
-linkedin: https://www.linkedin.com/in/fabio-augusto-95a00415b/
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula):
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-[![](https://media3.giphy.com/media/Jmyt4ADRCYHgS0NRyN/giphy.gif?cid=ecf05e478v6u7lgn1x5jphnppi9psdm5f8wfhbrmzr006m0f&rid=giphy.gif&ct=s)](https://media3.giphy.com/media/Jmyt4ADRCYHgS0NRyN/giphy.gif?cid=ecf05e478v6u7lgn1x5jphnppi9psdm5f8wfhbrmzr006m0f&rid=giphy.gif&ct=s)
-
-
-
-[![](https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif)](https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/USERNAME)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/USERNAME/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/USERNAME/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
