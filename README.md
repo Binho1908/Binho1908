@@ -8,4 +8,13 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=10&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=/&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula)
+
+ :tw-1f525: :tw-1f680: **TECHNOLOGIES & TOOLS**
+ 
+ 
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
