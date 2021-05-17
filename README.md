@@ -16,10 +16,6 @@ Hi i'm Fabio Augusto :boy:
 💞️ I’m looking to collaborate on web projects.
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula">
-</p>
-
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=08/&layout=compact&theme=dracula">
 
@@ -31,4 +27,11 @@ Hi i'm Fabio Augusto :boy:
 
 > ### Connect with me:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustofabio1908@gmail.com)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-95a00415b/)
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula">
+</p>
+
+
 
