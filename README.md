@@ -16,8 +16,7 @@ Hi i'm Fabio Augusto :boy:
 💞️ I’m looking to collaborate on web projects.
 </p>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula">
 
 
 <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=08/&layout=compact&theme=dracula">
