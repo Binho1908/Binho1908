@@ -14,6 +14,12 @@ Hi i'm Fabio Augusto :boy:
 </p>
 
 
+<img src="https://media.giphy.com/media/8OGSU60QOHwrpBn33w/giphy.gif" height="200px" align="left";>
+<p align="right">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula)</p>
+</p>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=8/&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula)
 
 
