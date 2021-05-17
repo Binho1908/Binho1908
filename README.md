@@ -19,7 +19,8 @@ Hi i'm Fabio Augusto :boy:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=08/&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=08/&layout=compact&theme=dracula">
 
 
 > :fire: :rocket: **TECHNOLOGIES & TOOLS**
