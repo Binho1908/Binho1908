@@ -32,3 +32,7 @@ Hi i'm Fabio Augusto :boy:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustofabio1908@gmail.com)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-95a00415b/)
 
 </p>
+
+<p align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=08/&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</p>
+
