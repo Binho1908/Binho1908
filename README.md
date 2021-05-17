@@ -16,7 +16,7 @@ Hi i'm Fabio Augusto :boy:
 💞️ I’m looking to collaborate on web projects.
 </p>
 
-<p align=""center>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula">
 </p>
 
