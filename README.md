@@ -2,9 +2,17 @@
 <h1 align="center">
 Hi i'm Fabio Augusto :boy:
 </h1>
+<p align="center"> 	👋 Hi, I’m @Binho1908</p>
+<p align="center">
+	👀 I’m interested in Web development.
+</p>
+<p align="center">
+🌱 I’m currently learning ui/ux and node.js.
+</p>
+<p align="center">
+💞️ I’m looking to collaborate on web projects.
+</p>
 
-
-<p align="center">centered text</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Binho1908&langs_count=8/&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binho1908&show_icons=true&theme=dracula)
 
