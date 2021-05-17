@@ -26,4 +26,4 @@ Hi i'm Fabio Augusto :boy:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:augustofabio1908@gmail.com)  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-95a00415b/)
 
 
-<img height="200" src="https://media.giphy.com/media/8OGSU60QOHwrpBn33w/giphy.gif">
+<img height="200" align="center" src="https://media.giphy.com/media/8OGSU60QOHwrpBn33w/giphy.gif">
