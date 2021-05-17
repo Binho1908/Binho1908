@@ -1,3 +1,6 @@
+<p align="center">
+<img height="200";  src="https://media.giphy.com/media/8OGSU60QOHwrpBn33w/giphy.gif">
+</p>
 
 <h1 align="center">
 Hi i'm Fabio Augusto :boy:
