@@ -7,10 +7,10 @@ Hi i'm Fabio Augusto :boy:
 </h1>
 <p align="center"> 	👋 Hi, I’m @Binho1908</p>
 <p align="center">
-	👀 I’m interested in Web development.
+	👀 I’m interested in Back end development.
 </p>
 <p align="center">
-🌱 I’m currently learning ui/ux and node.js.
+🌱 I’m currently learning java, springboot, jpa/hibernete.
 </p>
 <p align="center">
 💞️ I’m looking to collaborate on web projects.
